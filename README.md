@@ -1,6 +1,11 @@
 # Anime-Boys-Holding-Programming-Books
 Anime Boys Holding Programming Books
 
+## Important
+
+We need contributiors :)
+You can create pull requests. If you don't want to edit pics for some reason, you can mail me pics of anime boys with books, and let me do the editing. My email : `snehitsah[at]protonmail[dot]com`
+
 # Contribution Guidelines
 
 * Images must have descriptive file names in the following format:
